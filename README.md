@@ -24,7 +24,5 @@ Où b représente le vecteur des constantes du système d'équations et x repré
 
     
 
-## Appendix
 
-Any additional information goes here
 
